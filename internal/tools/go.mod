@@ -11,7 +11,7 @@ require (
 	github.com/golangci/golangci-lint v1.40.1
 	github.com/gordonklaus/ineffassign v0.0.0-20210225214923-2e10b2664254
 	github.com/goware/modvendor v0.3.0
-	github.com/mgechev/revive v1.0.7
+	github.com/mgechev/revive v1.0.8
 	github.com/stormcat24/protodep v0.0.0-20210106175019-c95189bc461b
 	github.com/vektra/mockery/v2 v2.8.0
 	golang.org/x/mobile v0.0.0-20201217150744-e6ae53a27f4f
